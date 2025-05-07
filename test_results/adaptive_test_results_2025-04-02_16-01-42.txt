@@ -1,0 +1,80 @@
+Testlauf am 2025-04-02 16:01:42 
+==================================================
+
+Konfiguration:
+beta:: 0.2
+alpha: 0.002
+initial_temperature: 0.3
+max_iter: 1200
+small_container_preference: 0.5
+max_attempts_per_bin: 10
+time_limit: 30
+--------------------------------------------------
+
+Container: [{'name': 'S', 'W': 20, 'H': 20, 'D': 15, 'max_weight': 3, 'volume': 6000}, {'name': 'M', 'W': 25, 'H': 25, 'D': 20, 'max_weight': 4, 'volume': 12500}, {'name': 'L', 'W': 30, 'H': 30, 'D': 25, 'max_weight': 6, 'volume': 22500}, {'name': 'XL', 'W': 35, 'H': 35, 'D': 30, 'max_weight': 8, 'volume': 36750}, {'name': 'XXL', 'W': 40, 'H': 40, 'D': 35, 'max_weight': 10, 'volume': 56000}]
+Ergebnisse:
+Produkte: [{'id': 'Smartphone', 'w': 15, 'h': 7, 'd': 1, 'weight': 0.2, 'upright_only': False}] 
+
+Amount of Prod: 1 - Time: 0.002 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.003 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.002 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.002 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.002 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.002 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.002 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.002 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.002 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.002 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Smartphone', 'w': 15, 'h': 7, 'd': 1, 'weight': 0.2, 'upright_only': False}, {'id': 'Watch', 'w': 8, 'h': 8, 'd': 3, 'weight': 0.1, 'upright_only': False}] 
+
+Amount of Prod: 2 - Time: 0.199 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.134 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.133 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.129 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.143 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.135 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.129 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.130 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.130 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.130 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 1000, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Smartphone', 'w': 15, 'h': 7, 'd': 1, 'weight': 0.2, 'upright_only': False}, {'id': 'Watch', 'w': 8, 'h': 8, 'd': 3, 'weight': 0.1, 'upright_only': False}, {'id': 'Digital Camera', 'w': 12, 'h': 8, 'd': 7, 'weight': 0.5, 'upright_only': False}] 
+
+Amount of Prod: 3 - Time: 194.934 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 941, 'M': 59, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 4603.859 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 963, 'M': 37, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 283.905 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 941, 'M': 59, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 832.727 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 953, 'M': 47, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 1380.173 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 949, 'M': 51, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 4559.431 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 939, 'M': 61, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 2679.711 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 949, 'M': 51, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 657.721 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 945, 'M': 55, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 1676.418 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 946, 'M': 54, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 3201.130 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 938, 'M': 62, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Smartphone', 'w': 15, 'h': 7, 'd': 1, 'weight': 0.2, 'upright_only': False}, {'id': 'Watch', 'w': 8, 'h': 8, 'd': 3, 'weight': 0.1, 'upright_only': False}, {'id': 'Digital Camera', 'w': 12, 'h': 8, 'd': 7, 'weight': 0.5, 'upright_only': False}, {'id': 'Headphone1', 'w': 20, 'h': 15, 'd': 10, 'weight': 0.3, 'upright_only': False}] 
+
+Amount of Prod: 4 - Time: 39.486 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 0, 'M': 10, 'L': 981, 'XL': 9, 'XXL': 0}
+Amount of Prod: 4 - Time: 159.456 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 0, 'M': 4, 'L': 977, 'XL': 19, 'XXL': 0}
+Amount of Prod: 4 - Time: 1836.466 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 0, 'M': 11, 'L': 976, 'XL': 13, 'XXL': 0}
+Amount of Prod: 4 - Time: 41.122 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 0, 'M': 7, 'L': 990, 'XL': 3, 'XXL': 0}
+Amount of Prod: 4 - Time: 39.552 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 0, 'M': 9, 'L': 976, 'XL': 15, 'XXL': 0}
+Amount of Prod: 4 - Time: 39.998 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 0, 'M': 7, 'L': 984, 'XL': 9, 'XXL': 0}
+Amount of Prod: 4 - Time: 39.597 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 0, 'M': 10, 'L': 972, 'XL': 18, 'XXL': 0}
+Amount of Prod: 4 - Time: 591.546 seconds - {'amountOfIterations': 1000, 'plannedIterations': 1000, 'S': 0, 'M': 10, 'L': 976, 'XL': 14, 'XXL': 0}
+Amount of Prod: 4 - Time: 2096.792 seconds - {'amountOfIterations': 1001, 'plannedIterations': 1000, 'S': 0, 'M': 9, 'L': 975, 'XL': 16, 'XXL': 0}
+Amount of Prod: 4 - Time: 970.247 seconds - {'amountOfIterations': 1001, 'plannedIterations': 1000, 'S': 0, 'M': 9, 'L': 986, 'XL': 5, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Smartphone', 'w': 15, 'h': 7, 'd': 1, 'weight': 0.2, 'upright_only': False}, {'id': 'Watch', 'w': 8, 'h': 8, 'd': 3, 'weight': 0.1, 'upright_only': False}, {'id': 'Digital Camera', 'w': 12, 'h': 8, 'd': 7, 'weight': 0.5, 'upright_only': False}, {'id': 'Headphone1', 'w': 20, 'h': 15, 'd': 10, 'weight': 0.3, 'upright_only': False}, {'id': 'Headphone2', 'w': 20, 'h': 15, 'd': 10, 'weight': 0.3, 'upright_only': False}] 
+
+Amount of Prod: 5 - Time: 79.045 seconds - {'amountOfIterations': 1038, 'plannedIterations': 1000, 'S': 0, 'M': 0, 'L': 0, 'XL': 5, 'XXL': 995}
+Amount of Prod: 5 - Time: 1540.198 seconds - {'amountOfIterations': 1047, 'plannedIterations': 1000, 'S': 0, 'M': 0, 'L': 0, 'XL': 7, 'XXL': 993}
+Amount of Prod: 5 - Time: 5930.122 seconds - {'amountOfIterations': 1039, 'plannedIterations': 1000, 'S': 0, 'M': 0, 'L': 0, 'XL': 9, 'XXL': 991}
+Amount of Prod: 5 - Time: 5258.695 seconds - {'amountOfIterations': 1044, 'plannedIterations': 1000, 'S': 0, 'M': 0, 'L': 0, 'XL': 6, 'XXL': 994}
+Amount of Prod: 5 - Time: 81.204 seconds - {'amountOfIterations': 1034, 'plannedIterations': 1000, 'S': 0, 'M': 0, 'L': 0, 'XL': 11, 'XXL': 989}
+Amount of Prod: 5 - Time: 80.464 seconds - {'amountOfIterations': 1033, 'plannedIterations': 1000, 'S': 0, 'M': 0, 'L': 0, 'XL': 9, 'XXL': 991}
+Amount of Prod: 5 - Time: 5123.782 seconds - {'amountOfIterations': 1040, 'plannedIterations': 1000, 'S': 0, 'M': 0, 'L': 0, 'XL': 10, 'XXL': 990}
+Amount of Prod: 5 - Time: 2129.831 seconds - {'amountOfIterations': 1036, 'plannedIterations': 1000, 'S': 0, 'M': 0, 'L': 0, 'XL': 7, 'XXL': 993}
+Amount of Prod: 5 - Time: 82.556 seconds - {'amountOfIterations': 1036, 'plannedIterations': 1000, 'S': 0, 'M': 0, 'L': 0, 'XL': 10, 'XXL': 990}
+Amount of Prod: 5 - Time: 4133.450 seconds - {'amountOfIterations': 1040, 'plannedIterations': 1000, 'S': 0, 'M': 0, 'L': 0, 'XL': 8, 'XXL': 992}
+==================================================================================================================================

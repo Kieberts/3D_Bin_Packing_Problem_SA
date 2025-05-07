@@ -1,0 +1,51 @@
+Testlauf am 2025-04-02 10:09:09 
+==================================================
+
+Konfiguration:
+beta:: 0.2
+alpha: 0.002
+initial_temperature: 0.3
+max_iter: 1200
+small_container_preference: 0.5
+max_attempts_per_bin: 10
+time_limit: 30
+--------------------------------------------------
+
+Container: [{'name': 'S', 'W': 20, 'H': 20, 'D': 15, 'max_weight': 3, 'volume': 6000}, {'name': 'M', 'W': 25, 'H': 25, 'D': 20, 'max_weight': 4, 'volume': 12500}, {'name': 'L', 'W': 30, 'H': 30, 'D': 25, 'max_weight': 6, 'volume': 22500}, {'name': 'XL', 'W': 35, 'H': 35, 'D': 30, 'max_weight': 8, 'volume': 36750}, {'name': 'XXL', 'W': 40, 'H': 40, 'D': 35, 'max_weight': 10, 'volume': 56000}]
+Ergebnisse:
+Amount of Prod: 1 - Time: 0.000 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 100, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.000 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 100, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.000 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 100, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.000 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 100, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.000 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 100, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Amount of Prod: 2 - Time: 0.013 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 100, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.013 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 100, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.012 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 100, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.013 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 100, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 0.013 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 100, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Amount of Prod: 3 - Time: 17.587 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 96, 'M': 4, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 17.845 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 92, 'M': 8, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 18.186 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 96, 'M': 4, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 18.434 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 95, 'M': 5, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 18.243 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 96, 'M': 4, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Amount of Prod: 4 - Time: 4.011 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 0, 'M': 0, 'L': 97, 'XL': 3, 'XXL': 0}
+Amount of Prod: 4 - Time: 4.283 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 0, 'M': 0, 'L': 99, 'XL': 1, 'XXL': 0}
+Amount of Prod: 4 - Time: 3.801 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 0, 'M': 1, 'L': 97, 'XL': 2, 'XXL': 0}
+Amount of Prod: 4 - Time: 3.950 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 0, 'M': 1, 'L': 98, 'XL': 1, 'XXL': 0}
+Amount of Prod: 4 - Time: 3.862 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 0, 'M': 1, 'L': 96, 'XL': 3, 'XXL': 0}
+==================================================================================================================================
+Amount of Prod: 5 - Time: 7.998 seconds - {'amountOfIterations': 105, 'plannedIterations': 100, 'S': 0, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 100}
+Amount of Prod: 5 - Time: 7.805 seconds - {'amountOfIterations': 100, 'plannedIterations': 100, 'S': 0, 'M': 0, 'L': 0, 'XL': 1, 'XXL': 99}
+Amount of Prod: 5 - Time: 7.399 seconds - {'amountOfIterations': 104, 'plannedIterations': 100, 'S': 0, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 100}
+Amount of Prod: 5 - Time: 7.458 seconds - {'amountOfIterations': 107, 'plannedIterations': 100, 'S': 0, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 100}
+Amount of Prod: 5 - Time: 8.147 seconds - {'amountOfIterations': 103, 'plannedIterations': 100, 'S': 0, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 100}
+==================================================================================================================================
+Amount of Prod: 6 - Time: 276.348 seconds - {'amountOfIterations': 20, 'plannedIterations': 20, 'S': 20, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 273.465 seconds - {'amountOfIterations': 20, 'plannedIterations': 20, 'S': 20, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 273.967 seconds - {'amountOfIterations': 20, 'plannedIterations': 20, 'S': 20, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 271.263 seconds - {'amountOfIterations': 20, 'plannedIterations': 20, 'S': 20, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 278.385 seconds - {'amountOfIterations': 20, 'plannedIterations': 20, 'S': 20, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================

@@ -1,0 +1,210 @@
+Testlauf am 2025-04-07 23:25:37 
+==================================================
+
+Konfiguration:
+beta:: 0.2
+alpha: 0.002
+initial_temperature: 1
+max_iter: 5000
+small_container_preference: 1
+max_attempts_per_bin: 15
+time_limit: 30
+--------------------------------------------------
+
+Container: [{'name': 'S', 'W': 20, 'H': 20, 'D': 15, 'max_weight': 3000, 'volume': 6000}, {'name': 'M', 'W': 25, 'H': 25, 'D': 20, 'max_weight': 4000, 'volume': 12500}, {'name': 'L', 'W': 30, 'H': 30, 'D': 25, 'max_weight': 6000, 'volume': 22500}, {'name': 'XL', 'W': 35, 'H': 35, 'D': 30, 'max_weight': 8000, 'volume': 36750}, {'name': 'XXL', 'W': 40, 'H': 40, 'D': 35, 'max_weight': 10000, 'volume': 56000}]
+Ergebnisse:
+Produkte: [{'id': 'Smartphone', 'w': 15, 'h': 7, 'd': 1, 'weight': 200, 'upright_only': False}] 
+
+Amount of Prod: 1 - Time: 0.001 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.001 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.001 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.001 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.001 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.001 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.001 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.001 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.001 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 1 - Time: 0.001 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Smartphone', 'w': 15, 'h': 7, 'd': 1, 'weight': 200, 'upright_only': False}, {'id': 'Watch', 'w': 8, 'h': 8, 'd': 3, 'weight': 100, 'upright_only': False}] 
+
+Amount of Prod: 2 - Time: 1735.822 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 143.255 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 143.611 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 145.200 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 145.188 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 146.060 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 148.096 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 153.328 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 170.259 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 265.080 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Smartphone', 'w': 15, 'h': 7, 'd': 1, 'weight': 200, 'upright_only': False}, {'id': 'Watch', 'w': 8, 'h': 8, 'd': 3, 'weight': 100, 'upright_only': False}, {'id': 'Digital Camera', 'w': 12, 'h': 8, 'd': 7, 'weight': 500, 'upright_only': False}] 
+
+Amount of Prod: 3 - Time: 211.757 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 164.743 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 124.893 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 114.543 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 113.333 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 112.641 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 108.789 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 123.668 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 120.312 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 110.768 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Smartphone', 'w': 15, 'h': 7, 'd': 1, 'weight': 200, 'upright_only': False}, {'id': 'Watch', 'w': 8, 'h': 8, 'd': 3, 'weight': 100, 'upright_only': False}, {'id': 'Digital Camera', 'w': 12, 'h': 8, 'd': 7, 'weight': 500, 'upright_only': False}, {'id': 'Headphone1', 'w': 20, 'h': 15, 'd': 10, 'weight': 300, 'upright_only': False}] 
+
+Amount of Prod: 4 - Time: 48.145 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 49.315 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 49.757 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 51.344 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 50.139 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 53.307 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 54.250 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 53.890 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 55.759 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 53.982 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Smartphone', 'w': 15, 'h': 7, 'd': 1, 'weight': 200, 'upright_only': False}, {'id': 'Watch', 'w': 8, 'h': 8, 'd': 3, 'weight': 100, 'upright_only': False}, {'id': 'Digital Camera', 'w': 12, 'h': 8, 'd': 7, 'weight': 500, 'upright_only': False}, {'id': 'Headphone1', 'w': 20, 'h': 15, 'd': 10, 'weight': 300, 'upright_only': False}, {'id': 'Headphone2', 'w': 20, 'h': 15, 'd': 10, 'weight': 300, 'upright_only': False}] 
+
+Amount of Prod: 5 - Time: 274.486 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 0, 'XL': 500, 'XXL': 0}
+Amount of Prod: 5 - Time: 259.785 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 0, 'XL': 500, 'XXL': 0}
+Amount of Prod: 5 - Time: 275.836 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 0, 'XL': 500, 'XXL': 0}
+Amount of Prod: 5 - Time: 285.442 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 0, 'XL': 500, 'XXL': 0}
+Amount of Prod: 5 - Time: 291.857 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 0, 'XL': 500, 'XXL': 0}
+Amount of Prod: 5 - Time: 287.477 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 0, 'XL': 500, 'XXL': 0}
+Amount of Prod: 5 - Time: 277.147 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 0, 'XL': 500, 'XXL': 0}
+Amount of Prod: 5 - Time: 300.998 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 0, 'XL': 500, 'XXL': 0}
+Amount of Prod: 5 - Time: 295.280 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 0, 'XL': 500, 'XXL': 0}
+Amount of Prod: 5 - Time: 278.857 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 0, 'XL': 500, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Test1', 'w': 2, 'h': 2, 'd': 3, 'weight': 300, 'upright_only': False}, {'id': 'Test2', 'w': 2, 'h': 2, 'd': 3, 'weight': 300, 'upright_only': False}, {'id': 'Test3', 'w': 2, 'h': 2, 'd': 3, 'weight': 300, 'upright_only': False}, {'id': 'Test4', 'w': 2, 'h': 2, 'd': 3, 'weight': 300, 'upright_only': False}, {'id': 'Test5', 'w': 2, 'h': 2, 'd': 3, 'weight': 300, 'upright_only': False}, {'id': 'Test6', 'w': 2, 'h': 2, 'd': 3, 'weight': 300, 'upright_only': False}] 
+
+Amount of Prod: 6 - Time: 168.829 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 194.023 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 166.561 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 164.850 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 163.870 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 165.373 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 751.627 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 1222.805 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 1321.505 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 6 - Time: 1120.399 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Action Camera', 'w': 8, 'h': 6, 'd': 10, 'weight': 300, 'upright_only': False}, {'id': 'Mini Drone', 'w': 25, 'h': 10, 'd': 25, 'weight': 900, 'upright_only': False}] 
+
+Amount of Prod: 2 - Time: 33.647 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 33.141 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 33.384 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 33.362 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 33.304 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 963.902 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 33.291 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 1062.315 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 1041.004 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 33.871 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Action Camera', 'w': 8, 'h': 6, 'd': 10, 'weight': 300, 'upright_only': False}, {'id': 'Mini Drone', 'w': 25, 'h': 10, 'd': 25, 'weight': 900, 'upright_only': False}, {'id': 'USB Flash Drive', 'w': 2, 'h': 2, 'd': 8, 'weight': 20, 'upright_only': False}] 
+
+Amount of Prod: 3 - Time: 1993.410 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.823 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.743 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.603 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.767 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.571 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 61.065 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.855 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.617 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.628 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Action Camera', 'w': 8, 'h': 6, 'd': 10, 'weight': 300, 'upright_only': False}, {'id': 'Mini Drone', 'w': 25, 'h': 10, 'd': 25, 'weight': 900, 'upright_only': False}, {'id': 'USB Flash Drive', 'w': 2, 'h': 2, 'd': 8, 'weight': 20, 'upright_only': False}, {'id': 'Fitness Tracker', 'w': 10, 'h': 3, 'd': 10, 'weight': 100, 'upright_only': False}] 
+
+Amount of Prod: 4 - Time: 125.789 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 125.564 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 125.691 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 125.781 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 125.560 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 125.636 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 125.571 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 125.613 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 125.627 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 125.657 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Action Camera', 'w': 8, 'h': 6, 'd': 10, 'weight': 300, 'upright_only': False}, {'id': 'Mini Drone', 'w': 25, 'h': 10, 'd': 25, 'weight': 900, 'upright_only': False}, {'id': 'USB Flash Drive', 'w': 2, 'h': 2, 'd': 8, 'weight': 20, 'upright_only': False}, {'id': 'Fitness Tracker', 'w': 10, 'h': 3, 'd': 10, 'weight': 100, 'upright_only': False}, {'id': 'Portable Speaker', 'w': 10, 'h': 10, 'd': 18, 'weight': 800, 'upright_only': False}] 
+
+Amount of Prod: 5 - Time: 81.998 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 5 - Time: 82.111 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 5 - Time: 82.212 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 5 - Time: 81.758 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 5 - Time: 81.998 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 5 - Time: 82.113 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 5 - Time: 82.116 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 5 - Time: 82.092 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 5 - Time: 82.099 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 5 - Time: 82.629 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Mini Drone', 'w': 25, 'h': 10, 'd': 25, 'weight': 900, 'upright_only': False}, {'id': 'USB Flash Drive', 'w': 2, 'h': 2, 'd': 8, 'weight': 20, 'upright_only': False}, {'id': 'Fitness Tracker', 'w': 10, 'h': 3, 'd': 10, 'weight': 100, 'upright_only': False}, {'id': 'Portable Speaker', 'w': 10, 'h': 10, 'd': 18, 'weight': 800, 'upright_only': False}] 
+
+Amount of Prod: 4 - Time: 122.039 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 122.672 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 122.011 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 121.995 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 121.899 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 122.171 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 122.186 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 122.449 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 1026.718 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 4 - Time: 1144.125 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'USB Flash Drive', 'w': 2, 'h': 2, 'd': 8, 'weight': 20, 'upright_only': False}, {'id': 'Fitness Tracker', 'w': 10, 'h': 3, 'd': 10, 'weight': 100, 'upright_only': False}, {'id': 'Portable Speaker', 'w': 10, 'h': 10, 'd': 18, 'weight': 800, 'upright_only': False}] 
+
+Amount of Prod: 3 - Time: 37.250 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 456.925 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 37.273 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 944.198 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 1112.842 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 38.045 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 189.555 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 99.507 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 37.202 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 658.905 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 500, 'M': 0, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Portable Speaker1', 'w': 10, 'h': 10, 'd': 18, 'weight': 800, 'upright_only': False}, {'id': 'Portable Speaker2', 'w': 10, 'h': 10, 'd': 18, 'weight': 800, 'upright_only': False}, {'id': 'Portable Speaker3', 'w': 10, 'h': 10, 'd': 18, 'weight': 800, 'upright_only': False}] 
+
+Amount of Prod: 3 - Time: 60.388 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.088 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 59.927 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.119 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.107 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.223 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 59.976 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.047 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 60.956 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 65.148 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Fitness Tracker1', 'w': 10, 'h': 3, 'd': 10, 'weight': 100, 'upright_only': False}, {'id': 'Fitness Tracker2', 'w': 10, 'h': 3, 'd': 10, 'weight': 100, 'upright_only': False}, {'id': 'Portable Speaker', 'w': 10, 'h': 10, 'd': 18, 'weight': 800, 'upright_only': False}] 
+
+Amount of Prod: 3 - Time: 52.369 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 52.606 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 55.079 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 56.744 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 55.961 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 58.062 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 56.602 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 57.450 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 57.503 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+Amount of Prod: 3 - Time: 58.183 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 500, 'L': 0, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
+Produkte: [{'id': 'Mini Drone1', 'w': 25, 'h': 10, 'd': 25, 'weight': 900, 'upright_only': False}, {'id': 'Mini Drone2', 'w': 25, 'h': 10, 'd': 25, 'weight': 900, 'upright_only': False}] 
+
+Amount of Prod: 2 - Time: 54.105 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 53.706 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 53.899 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 55.268 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 56.085 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 54.746 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 56.138 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 55.109 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 55.627 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+Amount of Prod: 2 - Time: 57.764 seconds - {'amountOfIterations': 500, 'plannedIterations': 500, 'S': 0, 'M': 0, 'L': 500, 'XL': 0, 'XXL': 0}
+==================================================================================================================================
